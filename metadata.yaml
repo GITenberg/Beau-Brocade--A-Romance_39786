@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45
     wikipedia: http://en.wikipedia.org/wiki/Baroness_Orczy
 description: Portrays a chivalrous highwayman in Jacobite days.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39786#Beau-Brocade--A-Romance
 gutenberg_issued: '2012-05-24'
 gutenberg_type: Text
 identifiers:
