@@ -1265,7 +1265,7 @@ and time seemed to creep with lead-weighted wings:
 yet every sound, every strange footstep, made his
 nerves quiver with morbid apprehension, and even
 now at sound of a tremulous voice from the road,
-shrank, moody and impatient, into
+shrank, moody and impatient, into the darkest
 corner of the hut.
 
 .. vspace:: 4
@@ -2555,7 +2555,7 @@ due to so great a lady as Lady Patience Gascoyne.
 He stood at the door of the parlour and had the
 honour of bowing to her as she followed Mistress
 Pottage quickly along the passage to the inner room
-Beyond, her long cloak flying out behind her, owing
+beyond, her long cloak flying out behind her, owing
 to the draught caused by the open doors.
 
 Alone in the small, dingy room, Patience almost
@@ -8282,7 +8282,7 @@ words was so keen that Sir Humphrey remained
 practically unnoticed.  One or two villagers, noting
 that a gentleman was amongst them, respectfully
 made way for him, then one youngster, struck by a
-sudden idea, stated at him and whispered to his
+sudden idea, stared at him and whispered to his
 neighbour,—
 
 "He's got a brown coat on..."
@@ -8301,7 +8301,7 @@ of a stentorian,—
 
 "Oyez!"
 
-He gave one tremendous gasp, the bell dropped our
+He gave one tremendous gasp, the bell dropped out
 of his hand, his jaw fell, his round, beady eyes nearly
 bulged out of his head.
 
@@ -9603,7 +9603,7 @@ already they had perceived the outline of Jock Miggs's
 figure, standing motionless not far from the body of
 the dead dog.
 
-With a scout of triumph Sergeant and soldiers fell
+With a shout of triumph Sergeant and soldiers fell
 on the astonished shepherd, whilst the same mild,
 trembling voice continued to pipe excitedly,—
 
@@ -9628,7 +9628,7 @@ with your belts, quick! ... and you, Corporal,
 keep that coat tied well over his head ... the
 rascal's like an eel, and'll wriggle out of your hands
 if you don't hold him tight....  Remember
-there's a hundred guineas' reward for the capture of
+there's a hundred guineas reward for the capture of
 Beau Brocade."
 
 Poor old Miggs, smothered within the thick folds
